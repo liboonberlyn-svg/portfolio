@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <rect width="600" height="800" fill="#fbe2ed"/>
+  <circle cx="300" cy="265" r="115" fill="#eeb2cc"/>
+  <path d="M100 720c15-165 90-260 200-260s185 95 200 260" fill="#eeb2cc"/>
+  <text x="300" y="760" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#9e426c">YOUR 2x2 PHOTO</text>
+</svg>
